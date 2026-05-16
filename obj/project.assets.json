@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/cohorte6/ah/EjemploCiCd/EjemploCiCd.csproj",
-      "projectName": "EjemploCiCd",
-      "projectPath": "/home/cohorte6/ah/EjemploCiCd/EjemploCiCd.csproj",
+      "projectUniqueName": "/home/cohorte6/ah/ejemplo_cicd/ejemplo_cicd.csproj",
+      "projectName": "ejemplo_cicd",
+      "projectPath": "/home/cohorte6/ah/ejemplo_cicd/ejemplo_cicd.csproj",
       "packagesPath": "/home/cohorte6/.nuget/packages/",
-      "outputPath": "/home/cohorte6/ah/EjemploCiCd/obj/",
+      "outputPath": "/home/cohorte6/ah/ejemplo_cicd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/cohorte6/.nuget/NuGet/NuGet.Config"

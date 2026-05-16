@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NWsN7drWcM4=",
+  "dgSpecHash": "8+Q0hdVjlbA=",
   "success": true,
-  "projectFilePath": "/home/cohorte6/ah/EjemploCiCd/EjemploCiCd.csproj",
+  "projectFilePath": "/home/cohorte6/ah/ejemplo_cicd/ejemplo_cicd.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
